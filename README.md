@@ -1,3 +1,4 @@
 # Pre-post-accident-detection-system
 Final year undergraduate project
-Writtent in arduino programming
+
+Written in arduino programming language(ATMEGA 328)
